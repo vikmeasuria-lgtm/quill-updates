@@ -1,9 +1,9 @@
 {
-  "version": "0.1.7",
-  "installer": "https://raw.githubusercontent.com/vikmeasuria-lgtm/quill-updates/main/Quill-0.1.7.msi",
-  "sha256": "57d5dac6ba4731f5866bc87491674e4220e9319aa6d2fa954b8be2c19f3b85f2",
-  "size": 17551360,
-  "notes": "Every figure in the Quill window now matches your real data, the mic level bar works, removed words can be undone, and the pill explains itself on hover.",
+  "version": "0.1.8",
+  "installer": "https://raw.githubusercontent.com/vikmeasuria-lgtm/quill-updates/main/Quill-0.1.8.msi",
+  "sha256": "d9906ba72bf2abd122115f1ab92e94f31250b9823175974b4d87e21c95b30638",
+  "size": 17571840,
+  "notes": "The microphone level bar on the Tune page now works, showing exactly what Quill hears from your chosen mic.",
   "expires": "2027-02-03T00:00:00",
-  "signature": "MEUCIQDx5NTWKx10TcXKMKEbK0MIVeUP8gnbWTIz7h9tH6Cx/QIgJ1vUTlmsW7gXFtIV4nC8yD9VFxxmv59Mu6TULElRZYM="
+  "signature": "MEUCIQCQInjC0BwbW/BS+mhQkXUx+y87TBy+xyNgdmPR2y959gIgGMyVwgfcfUrf6DIFj9ef7Xm4aY1Pjbqu5c3EPIP3Gs4="
 }
