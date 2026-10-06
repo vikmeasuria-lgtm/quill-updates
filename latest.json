@@ -1,9 +1,9 @@
 {
-  "version": "0.1.6",
-  "installer": "https://raw.githubusercontent.com/vikmeasuria-lgtm/quill-updates/main/Quill-0.1.6.msi",
-  "sha256": "fbb43828f853fd514666852c7a12d6515c9f92d730e0a8357e05ed1e482f5292",
-  "size": 17555456,
-  "notes": "The version number now shows in the Quill window, bottom left, and in the About box.",
+  "version": "0.1.7",
+  "installer": "https://raw.githubusercontent.com/vikmeasuria-lgtm/quill-updates/main/Quill-0.1.7.msi",
+  "sha256": "57d5dac6ba4731f5866bc87491674e4220e9319aa6d2fa954b8be2c19f3b85f2",
+  "size": 17551360,
+  "notes": "Every figure in the Quill window now matches your real data, the mic level bar works, removed words can be undone, and the pill explains itself on hover.",
   "expires": "2027-02-03T00:00:00",
-  "signature": "MEUCIHPSQSr0HGJDKT4ycEeBSgmS93iIpaoC4pgkXQN1zcj9AiEA2Qo3eVZBj394+MaDQ1KOV3+Dpb09l8cMow7tSy1gbY0="
+  "signature": "MEUCIQDx5NTWKx10TcXKMKEbK0MIVeUP8gnbWTIz7h9tH6Cx/QIgJ1vUTlmsW7gXFtIV4nC8yD9VFxxmv59Mu6TULElRZYM="
 }
