@@ -1,9 +1,9 @@
 {
-  "version": "0.1.5",
-  "installer": "https://raw.githubusercontent.com/vikmeasuria-lgtm/quill-updates/main/Quill-0.1.5.msi",
-  "sha256": "2d6fcaf6456f01a7ffc88fd059bc660712f95e058862aa218019a598d2c91267",
-  "size": 17551360,
-  "notes": "Quill now keeps itself up to date, and updates keep your history, settings and taught words.",
+  "version": "0.1.6",
+  "installer": "https://raw.githubusercontent.com/vikmeasuria-lgtm/quill-updates/main/Quill-0.1.6.msi",
+  "sha256": "fbb43828f853fd514666852c7a12d6515c9f92d730e0a8357e05ed1e482f5292",
+  "size": 17555456,
+  "notes": "The version number now shows in the Quill window, bottom left, and in the About box.",
   "expires": "2027-02-03T00:00:00",
-  "signature": "MEQCIHJnh7r+qMQBBelZjUC6GrF+ZpbMTxxTbC81dW+l41GWAiAKIzs19Me0QTtLNG7NbSPko/n+PFT7/SD0mCm1xW1XOg=="
+  "signature": "MEUCIHPSQSr0HGJDKT4ycEeBSgmS93iIpaoC4pgkXQN1zcj9AiEA2Qo3eVZBj394+MaDQ1KOV3+Dpb09l8cMow7tSy1gbY0="
 }
