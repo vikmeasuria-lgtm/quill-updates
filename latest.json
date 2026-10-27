@@ -1,9 +1,9 @@
 {
-  "version": "0.1.8",
-  "installer": "https://raw.githubusercontent.com/vikmeasuria-lgtm/quill-updates/main/Quill-0.1.8.msi",
-  "sha256": "d9906ba72bf2abd122115f1ab92e94f31250b9823175974b4d87e21c95b30638",
-  "size": 17571840,
-  "notes": "The microphone level bar on the Tune page now works, showing exactly what Quill hears from your chosen mic.",
-  "expires": "2027-02-03T00:00:00",
-  "signature": "MEUCIQCQInjC0BwbW/BS+mhQkXUx+y87TBy+xyNgdmPR2y959gIgGMyVwgfcfUrf6DIFj9ef7Xm4aY1Pjbqu5c3EPIP3Gs4="
+  "version": "0.1.9",
+  "installer": "https://raw.githubusercontent.com/vikmeasuria-lgtm/quill-updates/main/Quill-0.1.9.msi",
+  "sha256": "186dec677c1b0b22f4697091cee469a2b7a2701f6328a4be1be86962f051e179",
+  "size": 17567744,
+  "notes": "Fixes the Windows key sometimes staying stuck after dictating, which made Space switch the keyboard language.",
+  "expires": "2027-02-24T00:00:00",
+  "signature": "MEUCIQCnQ0Vyz0GUWdVcHfO/zWWQL/1fHh2u3qFSGSvJuIgCXAIgXB8x30X5Qdc3LaGyJGG/cga+J42OLzszNhE+YEVR56k="
 }
