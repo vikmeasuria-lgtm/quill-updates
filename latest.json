@@ -1,9 +1,9 @@
 {
-  "version": "0.2.0",
-  "installer": "https://raw.githubusercontent.com/vikmeasuria-lgtm/quill-updates/main/Quill-0.2.0.msi",
-  "sha256": "a1c0ca9393990dc7c4b7ef269135de16d874d7924e45ce2ad4e108293d2a9bf7",
-  "size": 17305600,
-  "notes": "Ready to share: new branded setup and welcome, the speech engine downloads while you set up, and practice names now sit in the Optical & Eyecare Group words pack.",
-  "expires": "2027-03-23T00:00:00",
-  "signature": "MEUCIQDnDTfJ2YwKJRjtM/Rp659rt7tQbha5SQuBJ5mrHUT1rwIgekXh1+POxgtG3OFIJgBrArzHmmnbJzgZvfkhnwGmQzA="
+  "version": "0.2.1",
+  "installer": "https://raw.githubusercontent.com/vikmeasuria-lgtm/quill-updates/main/Quill-0.2.1.msi",
+  "sha256": "cc9c88cb1dee96c51171c4c6ebe312d149947195934c34a0ca3e3fc0ef4761ce",
+  "size": 16654336,
+  "notes": "Small behind-the-scenes improvements. Nothing changes in how you use Quill.",
+  "expires": "2027-03-26T00:00:00",
+  "signature": "MEUCIA/NUamVNlRvkK7+sEY10xNf1n3aIF5Gqhbj9VWe7SOIAiEAydjdGDheLBByGduCzZL1ufdHjEwr9QNDOSlqZQwah3s="
 }
