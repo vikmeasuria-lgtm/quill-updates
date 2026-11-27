@@ -1,9 +1,9 @@
 {
-  "version": "0.2.1",
-  "installer": "https://raw.githubusercontent.com/vikmeasuria-lgtm/quill-updates/main/Quill-0.2.1.msi",
-  "sha256": "cc9c88cb1dee96c51171c4c6ebe312d149947195934c34a0ca3e3fc0ef4761ce",
+  "version": "0.2.2",
+  "installer": "https://raw.githubusercontent.com/vikmeasuria-lgtm/quill-updates/main/Quill-0.2.2.msi",
+  "sha256": "6565bb37db52b5a92e21ab3d8c8136a89abdd01ab1a5d96df3c86cbbc9936729",
   "size": 16654336,
-  "notes": "Small behind-the-scenes improvements. Nothing changes in how you use Quill.",
-  "expires": "2027-03-26T00:00:00",
-  "signature": "MEUCIA/NUamVNlRvkK7+sEY10xNf1n3aIF5Gqhbj9VWe7SOIAiEAydjdGDheLBByGduCzZL1ufdHjEwr9QNDOSlqZQwah3s="
+  "notes": "Short phrases are recognised more reliably, and you can dictate in 25 languages (choose yours in Tune).",
+  "expires": "2027-03-27T00:00:00",
+  "signature": "MEYCIQDeajQ5IYpfr9C2mKiB2X3vN9l0tdYCyK1SekNNiYYjlwIhAIzVsi8YdYbWTCfWkIzD1WVSGyeTd9ede55+igyxM8Ge"
 }
